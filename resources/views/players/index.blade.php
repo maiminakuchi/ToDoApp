@@ -3,7 +3,7 @@
 
 <table>
 	<tr>
-		<th>ID</th>
+		<th>I</th>
 		<th>背番号</th>
 		<th>ポジション</th>
 		<th>所属</th>
